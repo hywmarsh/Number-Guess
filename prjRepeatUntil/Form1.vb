@@ -7,7 +7,7 @@
         '
         Randomize()
         Number = Rnd() * 100 \ 10
-        MsgBox(Number)
+        'MsgBox(Number) - 'uncomment to test if random number generated is in range
         Do
             i = InputBox("Guess a number")
             If i <> Number Then
