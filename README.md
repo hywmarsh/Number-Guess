@@ -1,4 +1,4 @@
-<h1>Guess a Number</h1>
-<h2>English Version</h2>
 # Number-Guess
+<h2>English Version</h2>
+
 Random number 0 to 9
